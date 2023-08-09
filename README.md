@@ -40,7 +40,7 @@ Para abordar este ejercicio en Python, me basé en la implementación que ya hab
 
 Además, he agregado un archivo `.env.example` en el que se proporciona una plantilla simple para que agreguen su propia API_KEY proporcionada por OpenWeatherMap. Luego, deben renombrar el archivo `.env.example` a `.env` y agregar su API_KEY en ese archivo.
 
-## Uso de Bibliotecas
+## Uso de Librerías
 
 Utilicé las siguientes librerías:
 
