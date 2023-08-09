@@ -42,17 +42,19 @@ Además, he agregado un archivo `.env.example` en el que se proporciona una plan
 
 ## Uso de Bibliotecas
 
-Utilicé las siguientes bibliotecas:
+Utilicé las siguientes librerías:
 
-- **requests**: Utilicé la biblioteca `requests` para realizar solicitudes HTTP a la API de OpenWeatherMap y obtener los datos climáticos de la ciudad.
+- **requests**: La librería `requests` para realizar solicitudes HTTP a la API de OpenWeatherMap y obtener los datos climáticos de la ciudad.
 
-- **dotenv**: La biblioteca `dotenv` me permitió cargar variables de entorno desde el archivo `.env`, lo que facilitó la protección y configuración de mi API_KEY de manera segura.
+- **dotenv**: La librería `dotenv` me permitió cargar variables de entorno desde el archivo `.env`, lo que facilitó la protección y configuración de mi API_KEY de manera segura.
+
+-**unidecode**: La librería unidecode para transformar el texto de entrada en un formato sin caracteres diacríticos, asegurando una comparación y procesamiento más uniforme
 
 ## Sintaxis Python
 
 En la implementación en Python, he utilizado la notación de Snake Case para definir el nombre de la función y las variables.
 
-## Aclaraciones generales
+# Aclaraciones generales
 
 ## Los Campos Temp_min y Temp_max
 
