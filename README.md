@@ -48,7 +48,7 @@ Utilicé las siguientes librerías:
 
 - **dotenv**: La librería `dotenv` me permitió cargar variables de entorno desde el archivo `.env`, lo que facilitó la protección y configuración de mi API_KEY de manera segura.
 
--**unidecode**: La librería unidecode para transformar el texto de entrada en un formato sin caracteres diacríticos, asegurando una comparación y procesamiento más uniforme
+- **unidecode**: La librería unidecode para transformar el texto de entrada en un formato sin caracteres diacríticos, asegurando una comparación y procesamiento más uniforme
 
 ## Sintaxis Python
 
