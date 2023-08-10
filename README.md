@@ -67,3 +67,10 @@ Tanto en Python como en Javascript, la Api no reconoce la ciudad de "Puerto Prin
 ## Lista de ciudades capitales de América Latina
 
 Esta puede contenter errores ya que fue generada por una IA.
+
+## Fuentes:
+
+- API OpenWeatherMap: https://openweathermap.org/api
+- Librería `requests` para Python: https://docs.python-requests.org/en/master/
+- Librería `dotenv` para Python: https://pypi.org/project/python-dotenv/
+- Librería `unidecode` para Python: https://pypi.org/project/Unidecode/
